@@ -1,1 +1,7 @@
+# Fire Panel setup USE bash <(curl -s https://raw.githubusercontent.com/MrWaky/firepanel/main/setup.txt) FOR SETUP IF YOU ARE VIEWING FROM GITUB!
+#
+# Fire panel code
+
+#!/bin/bash
+
 
